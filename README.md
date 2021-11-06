@@ -1,4 +1,5 @@
 # AtlasHeraldPublic
+You need to add your Discord Bot Token and the Channel ID.
 
 How to get a discord bot token?
 https://www.writebots.com/discord-bot-token/
